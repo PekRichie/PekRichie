@@ -11,11 +11,11 @@
 
 | Repó | Tartalom | Kiemelés |
 |---|---|---|
-| **[plm](https://github.com/PekRichie/plm)** | Pocket Language Model (v0.1) – nulláról épített, telefonra tervezett LLM architektúra (BPE, RMSNorm, RoPE, GQA, SwiGLU, Q4/Q8 kvantálás + C99 runtime) | Python + C99 CI zöld |
-| **[ai-agent-patterns-lab](https://github.com/PekRichie/ai-agent-patterns-lab)** | 6 produkciós Agentic AI minta Python 3-ban (Cited RAG, ReAct Tool Agent, Multi-Agent Orchestrator, MCP JSON-RPC 2.0 szerver, Eval Harness, PII Guardrails) | 100% tesztelt, API-kulcs nélkül futtatható |
+| **[plm](https://github.com/PekRichie/plm)** | Pocket Language Model (v0.4) – nulláról épített, telefonra tervezett LLM architektúra (BPE, RMSNorm, RoPE, GQA, SwiGLU, Q4/Q8 kvantálás + C99 runtime) | Python + C99 CI zöld |
+| **[ai-agent-patterns-lab](https://github.com/PekRichie/ai-agent-patterns-lab)** | 8 produkciós Agentic AI minta Python 3-ban (Cited RAG, ReAct Tool Agent, Multi-Agent Orchestrator, MCP JSON-RPC 2.0 szerver, Eval Harness, PII Guardrails) | 100% tesztelt, API-kulcs nélkül futtatható |
 | **[web-showcase-100](https://github.com/PekRichie/web-showcase-100)** | 100 kategorizált weboldal és SaaS UI (35 Natív HTML/CSS/JS, 20 TypeScript, 25 React 18, 20 Angular 18) | [Élő böngésző (GitHub Pages)](https://pekrichie.github.io/web-showcase-100/) |
-| **[python-saas-lab](https://github.com/PekRichie/python-saas-lab)** | 20 Junior → Medior Python SaaS kisalkalmazás (API-kulcs, Rate Limiter, Webhook HMAC, RBAC, Proration, BM25, Circuit Breaker, Audit Hash-lánc) | 20/20 zöld `unittest` |
-| **[java-saas-lab](https://github.com/PekRichie/java-saas-lab)** | 20 Junior → Medior Java 17 SaaS kisalkalmazás (`record`, `BigDecimal`, `HmacSHA256`, `ThreadLocal` multi-tenancy, LRU/TTL cache, State Machine) | 20/20 fordítva és futtatva |
+| **[python-saas-lab](https://github.com/PekRichie/python-saas-lab)** | 24 Junior → Medior Python SaaS kisalkalmazás (API-kulcs, Rate Limiter, Webhook HMAC, RBAC, Proration, BM25, Circuit Breaker, Audit Hash-lánc) | 24/24 zöld `unittest` |
+| **[java-saas-lab](https://github.com/PekRichie/java-saas-lab)** | 24 Junior → Medior Java 17 SaaS kisalkalmazás (`record`, `BigDecimal`, `HmacSHA256`, `ThreadLocal` multi-tenancy, LRU/TTL cache, State Machine) | 24/24 fordítva és futtatva |
 | **[cuppashot-web](https://github.com/PekRichie/cuppashot-web)** | A [cuppashot.hu](https://cuppashot.hu) portfólió weboldal forráskódja (statikus HTML/CSS/JS, SEO, JSON-LD) | Élesben fut Vercel-en |
 
 ---
